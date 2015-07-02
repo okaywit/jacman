@@ -1,6 +1,6 @@
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  归档: /archives
 ##  About: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
@@ -34,7 +34,7 @@ author_img: ##img/author.jpg ## size:220px*220px.display author avatar picture.i
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
-    theme: '#2ca6cb'    ##the defaut theme color is blue
+    theme: '#db9f0e'    ## #2ca6cb the defaut theme color is blue
 
 # 代码高亮主题
 # available: default | night
@@ -43,7 +43,7 @@ highlight_theme: default
 #### index post is expanding or not 
 index:
   expand: true           ## default is unexpanding,so you can only see the short description of each post.
-  excerpt_link: Read More  
+  excerpt_link: 阅读全文  
 
 close_aside: false  #close sidebar in post page if true
 mathjax: false      #enable mathjax if true
@@ -129,5 +129,5 @@ baidu_search:     ## http://zn.baidu.com/
   site: http://zhannei.baidu.com/cse/search  ## your can change to your site instead of the default site
   
 tinysou_search:     ## http://tinysou.com/
-  enable: true
+  enable: false
   id: 59a2ab2101312c35d6ab  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
