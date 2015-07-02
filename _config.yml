@@ -1,4 +1,3 @@
-##### Menu
 menu:
   Home: /
   Archives: /archives
@@ -16,6 +15,7 @@ widgets:
 - tag
 - links
 - douban
+- weibo
 - rss
 ## provide seven widgets:category,tag,rss,archive,tagcloud,links,weibo,douban
 
@@ -30,6 +30,7 @@ imglogo:
 favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
 apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
 author_img: ##img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
+##### Menu
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
@@ -53,11 +54,11 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "我愿做一个孤独的行者，"    ## your introduction on the bottom of the page
-  intro_line2:  "守护心中的那份宁静！"## the 2nd line
+  intro_line1:  "我愿做一个孤独的行者，守护心中的那份宁静！"  ## your introduction on the bottom of the page
+  intro_line2:  ""  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: 0dd7beef  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
-  tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
+  tsina: 5547700992     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
   email:      ## e.g. imjark@gmail.com
@@ -128,5 +129,5 @@ baidu_search:     ## http://zn.baidu.com/
   site: http://zhannei.baidu.com/cse/search  ## your can change to your site instead of the default site
   
 tinysou_search:     ## http://tinysou.com/
-  enable: false
-  id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
+  enable: true
+  id: 59a2ab2101312c35d6ab  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
