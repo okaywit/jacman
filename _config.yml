@@ -54,8 +54,8 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "我愿做一个孤独的行者，守护心中的那份宁静！"  ## your introduction on the bottom of the page
-  intro_line2:  ""  ## the 2nd line
+  intro_line1:    ## your introduction on the bottom of the page
+  intro_line2:    ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: 0dd7beef  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 5547700992     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
